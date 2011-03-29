@@ -1,0 +1,4 @@
+#define HAVE_AV_CONFIG_H	1
+
+#include "avformat.h"
+#include "avio.h"

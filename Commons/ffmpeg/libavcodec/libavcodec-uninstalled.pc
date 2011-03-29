@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/Users/Beherith/projects/velestar/Radio/src/Commons/ffmpeg
+
+Name: libavcodec
+Description: FFmpeg codec library
+Version: 52.114.0
+Requires: 
+Conflicts:
+Libs: ${libdir}/libavcodec.a  -lm -lbz2 -lz 
+Cflags: -I${includedir}

@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/Users/Beherith/projects/velestar/Radio/src/Commons/ffmpeg
+
+Name: libavformat
+Description: FFmpeg container format library
+Version: 52.103.0
+Requires: libavcodec = 52.114.0
+Conflicts:
+Libs: ${libdir}/libavformat.a  -lm -lbz2 -lz 
+Cflags: -I${includedir}

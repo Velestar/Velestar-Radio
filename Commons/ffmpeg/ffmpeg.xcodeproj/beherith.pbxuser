@@ -1,0 +1,151 @@
+// !$*UTF8*$!
+{
+	08FB7793FE84155DC02AAC07 /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeSDKPreference = iphoneos4.0;
+		activeTarget = C6FE07380EE8A52F0094AF11 /* ffmpegLib */;
+		codeSenseManager = 6287628B11A9A42F00FB0063 /* Code sense */;
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					606,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					566,
+					60,
+					20,
+					48,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 302029828;
+			PBXWorkspaceStateSaveDate = 302029828;
+		};
+		perUserProjectItems = {
+			62374FC31200A4F0007C16E1 /* PBXTextBookmark */ = 62374FC31200A4F0007C16E1 /* PBXTextBookmark */;
+			628F75E311FF4885004FA14B /* PBXTextBookmark */ = 628F75E311FF4885004FA14B /* PBXTextBookmark */;
+			62BBB01111FDFEF6006AA0B7 /* PBXTextBookmark */ = 62BBB01111FDFEF6006AA0B7 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6287628A11A9A42F00FB0063 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	62374FC31200A4F0007C16E1 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 62374FC41200A4F0007C16E1 /* stdarg.h */;
+		name = "stdarg.h: 4";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 174;
+		vrLoc = 0;
+	};
+	62374FC41200A4F0007C16E1 /* stdarg.h */ = {
+		isa = PBXFileReference;
+		name = stdarg.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/stdarg.h;
+		sourceTree = "<absolute>";
+	};
+	6287628A11A9A42F00FB0063 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	6287628B11A9A42F00FB0063 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	628F75E311FF4885004FA14B /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 628F75E411FF4885004FA14B /* stdarg.h */;
+		name = "stdarg.h: 4";
+		rLen = 0;
+		rLoc = 100;
+		rType = 0;
+		vrLen = 227;
+		vrLoc = 0;
+	};
+	628F75E411FF4885004FA14B /* stdarg.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = stdarg.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.2.sdk/usr/include/stdarg.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 130}}";
+			sepNavSelRange = "{100, 0}";
+			sepNavVisRange = "{0, 174}";
+		};
+	};
+	62BBB01111FDFEF6006AA0B7 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = C695A01D0EE8673C00F50851 /* ffmpeg.c */;
+		name = "ffmpeg.c: 252";
+		rLen = 64;
+		rLoc = 6843;
+		rType = 0;
+		vrLen = 346;
+		vrLoc = 6697;
+	};
+	C6159D4B10C9A787009F9104 /* sha.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {495, 5161}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 653}";
+		};
+	};
+	C695A01D0EE8673C00F50851 /* ffmpeg.c */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {720, 60606}}";
+			sepNavSelRange = "{6993, 0}";
+			sepNavVisRange = "{6634, 433}";
+		};
+	};
+	C695A01E0EE8673C00F50851 /* config.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {784, 22581}}";
+			sepNavSelRange = "{49290, 18}";
+			sepNavVisRange = "{49043, 532}";
+		};
+	};
+	C6FE07380EE8A52F0094AF11 /* ffmpegLib */ = {
+		activeExec = 0;
+	};
+}

@@ -1,0 +1,12 @@
+prefix=
+exec_prefix=
+libdir=${pcfiledir}
+includedir=/Users/Beherith/projects/velestar/Radio/src/Commons/ffmpeg
+
+Name: libavdevice
+Description: FFmpeg device handling library
+Version: 52.3.0
+Requires: libavformat = 52.103.0
+Conflicts:
+Libs: ${libdir}/libavdevice.a  -lm -lbz2 -lz 
+Cflags: -I${includedir}
